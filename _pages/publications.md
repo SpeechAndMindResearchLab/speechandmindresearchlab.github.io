@@ -3,7 +3,7 @@ title: Peer-reviewed publications
 #subtitle: Peer-reviewed publications
 ---
 
-0. **Kim, M.**, Park, J., **Jeong, M.**, & **Song, J**. (2025). What Determines Personality Impressions of Synthetic and Natural Voices? The Effects of Voice Quality and Intonation. Language and Speech, 00238309251389567.
+0. **Kim, M.**, Park, J., **Jeong, M.**, & **Song, J.** (2025). What Determines Personality Impressions of Synthetic and Natural Voices? The Effects of Voice Quality and Intonation. Language and Speech, 00238309251389567.
 0. Iverson P. & **Song, J.** (2024). Neural Tracking of Speech Acoustics in Noise Is Coupled with Lexical Predictability as Estimated by Large Language Models, eNeuro, 11 (8), 1-21.
 0. **Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
 0. **Song, J.**, Kim, B., **Kim, M.** & Iverson, P. (2023). The Korean Speech Recognition sentences: A large corpus for evaluating semantic context and language experience in speech perception, Journal of Speech, Language, and Hearing Research, 66(9), 3399-3412.
