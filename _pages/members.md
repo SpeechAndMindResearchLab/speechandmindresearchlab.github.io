@@ -15,19 +15,12 @@ featured_image: /assets/img/sections/250408.jpg
 <!--```components/teams/team-carousel-2.html ```-->
 {% include components/teams/team-carousel-2.html %}
 
+<!--```components/teams/team-carousel-6.html ```-->
+{% include components/teams/team-carousel-6.html %}
+
 
 <h4>Former Members</h4>
 
 <p><strong>Haeun Oh (M.S)</strong>: Virtual Reality as a Tool for High-Variability Phonetic Training in Realistic Cognitive Load Conditions (Feb. 2025)
 </p>
 
-
-<!--
----
-```components/teams/team-carousel-3.html ```
-{% include components/teams/team-carousel-3.html %}
-
----
-```components/teams/team-carousel-1.html ```
-{% include components/teams/team-carousel-1.html %}
--->
