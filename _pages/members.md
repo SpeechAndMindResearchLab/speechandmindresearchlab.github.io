@@ -15,8 +15,8 @@ featured_image: /assets/img/sections/250408.jpg
 <!--```components/teams/team-carousel-2.html ```-->
 {% include components/teams/team-carousel-2.html %}
 
-<!--```components/teams/team-carousel-3.html ```-->
-{% include components/teams/team-carousel-3.html %}
+<!--```components/teams/team-carousel-2 copy.html ```-->
+{% include components/teams/team-carousel-2 copy.html %}
 
 
 <h4>Former Members</h4>
