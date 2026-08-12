@@ -21,6 +21,7 @@ featured_image: /assets/img/sections/250408.jpg
 
 <h4>Former Members</h4>
 
+<p><strong>Jihoo Lee (M.S)</strong>:  (Aug. 2026)
 <p><strong>Haeun Oh (M.S)</strong>: Virtual Reality as a Tool for High-Variability Phonetic Training in Realistic Cognitive Load Conditions (Feb. 2025)
 </p>
 
