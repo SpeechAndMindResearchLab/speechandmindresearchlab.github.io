@@ -20,6 +20,8 @@ title: Peer-reviewed publications
 0. **Song, J.** (2011). The interlanguage speech intelligibility benefit for experienced nonnative listeners: perception of English lexical stress produced by Korean native speakers, Proceedings of the 17th International Congress of Phonetic Sciences (ICPhS 2011), Hong Kong.
 
 ### Conference presentations (after 2021)
+0. **Kim, M.**, **Song, J.** (2026). Phonetic Correlates of Human-Likeness Judgments of Synthetic Speech in Different Communicative Contexts, The 2026 Fall Joint Conference of the Korean Society of Speech Sciences and the Center for Data Science in the Humanities of Chosun University, Gwangju, Republic of Korea.
+0. **Kim, M.**, **Song, J.** (2026). Effects of Voice and Speaking Style on the Evaluation of Synthetic Speech in Different Communicative Contexts, The 2026 Spring Joint Conference of the Korean Society of Speech Sciences and the Phonology-Morphology Circle of Korea, Seoul, Republic of Korea.
 0. **Jeong, M.**, Dou, J., Kang, M., **Song, J.** (2026). Understanding Speech Comprehension Difficulties in Older Listeners Using Electroencephalography, Joint Conference of the Linguistic Society of Korea and the Humanities Research Institute of Chungnam National University, Daejeon, Republic of Korea
 0. **Jeong, M.**, Dou, J., Kang, M., **Song, J.** (2026). 발화 속도가 노년층의 신경 음성 추적에 미치는 영향, Korean Society for Cognitive & Biological Psychology 2026, Seoul, Republic of Korea.
 0. **Jeong, M.**, Dou, J., Kang, M., **Song, J.** (2026). Neural tracking in older adults: The effect of speech rate and pause, Speech in Noise Workshop 2026, Paris, France.
